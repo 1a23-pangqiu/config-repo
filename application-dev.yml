@@ -9,6 +9,6 @@ spring:
       host: 10.220.136.220
       port: 7195
       username: mongo
-      password: 71985c446543f96
+      password: 71985c446543f96f
       database: thor_test
       authentication-database: admin
