@@ -12,3 +12,9 @@ spring:
       password: 71985c446543f96f
       database: thor_test
       authentication-database: admin
+      
+data:
+  env: config-eureka-dev
+  user:
+    username: eureka-client-user
+    password: 1291029102
